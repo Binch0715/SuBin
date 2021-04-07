@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="trip.xsl"?>
+<trip xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="trip.xsd">
+<team>
+<project>XML 팀 프로젝트</project>
+<name amja=" 이세연 16112501, 김인아 17122730, 임수빈 17123881">3팀</name>
+</team>
+<subject>
+<t>BEST</t>
+</subject>
+
+<review> 
+<title> 여행후기</title>
+<vie wirte="by 김은옥">베트남 다낭/ 호이안 맛집, 명소</vie>
+<moro wirte="by 세계유랑">사막의 꿈, 모로코</moro>
+<main_image file="vie.jpg" alt="vie"/>
+<main_image file="moko.jpg" alt="moro"/>
+</review>
+
+<national> 
+<title> 해외 주요 도시</title>
+<wir>코타키나발루, 블라디보스톡, 파리 등</wir>
+</national>
+
+<theme>
+<title> 테마여행지</title>
+<honey>허니문</honey>
+<cruze>크루즈</cruze>
+<bag>배낭여행</bag>
+<sport>레포츠/트레킹</sport>
+<golf>골프</golf>
+<main_image file="honey.png" alt="honey"/>
+<main_image file="cru.png" alt="cruze"/>
+<main_image file="bag.png" alt="bag"/>
+<main_image file="tra.png" alt="tra"/>
+<main_image file="gol.png" alt="gol"/>
+</theme>
+
+<button>
+<nation_button>여러 도시 정보 바로가기</nation_button>
+<theme_button>테마여행지 바로가기</theme_button>
+<review_button>더많은 여행후기 바로가기</review_button>
+</button>
+</trip>

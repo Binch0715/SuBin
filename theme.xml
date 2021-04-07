@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="theme.xsl"?>
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="theme.xsd">
+<team>
+<project>XML 팀 프로젝트</project>
+<name amja=" 이세연 16112501, 김인아 17122730, 임수빈 17123881">3팀</name>
+</team>
+
+<the>
+<title> 테마여행지</title>
+<honey>허니문</honey>
+<cruze>크루즈</cruze>
+<bag>배낭여행</bag>
+<sport>레포츠/트레킹</sport>
+<golf>골프</golf>
+<main_image file="honey.png" alt="honey"/>
+<main_image file="cru.png" alt="cruze"/>
+<main_image file="bag.png" alt="bag"/>
+<main_image file="tra.png" alt="tra"/>
+<main_image file="gol.png" alt="gol"/>
+</the>
+
+    <honeymoon>
+    <name>Honeymoon </name>
+    <Maldives eng="Maldives">몰디브</Maldives>
+    <Bali eng="Bali">발리</Bali>
+    <Mauritius eng="Mauritius">모리셔스</Mauritius>
+    <main_image file="Maldives.png" w="500" h="350" alt="mal"/>
+    <main_image file="mori.jpg" w="500" h="350" alt="mori"/> 
+    <main_image file="bali.png" w="500" h="350" alt="bali"/>
+    </honeymoon>
+    
+    <golf>
+    <japan>일본</japan>
+    <saipan>사이판 </saipan>
+    <philippines>필리핀 </philippines>
+    <china>중국</china>
+    </golf>
+    
+    <cruze>
+    <Alaska>알래스카 크루즈</Alaska>
+    <HongKong>홍콩 크루즈</HongKong>
+    <Europe>북유럽 크루즈</Europe>
+    <Caribbean>카리브해 크루즈</Caribbean>
+    </cruze>
+    
+    <bagpack>
+    <single>나홀로</single>
+      <friend>친구와 함께</friend>
+      <family>가족과 함께</family>
+    </bagpack>
+    
+    <activity>
+    <ski sport="스키">캐나다</ski>
+    <scuba sport="스쿠버다이빙">팔라우 </scuba>
+    <trekking sport="히말라야트레킹">칸자니아 </trekking>
+    <adventure sport="어드벤처">남극 </adventure>
+    </activity>
+  </theme>

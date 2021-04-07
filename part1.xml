@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="part1.xsl"?>
+
+<review>
+
+<China>
+  <main_image file="Sanghai.jpg" w="150" h="50"/>
+  <description>동양의 파리, 상해</description>
+</China>
+
+<Africa>
+  <main_image file="Africa.jpg" w="150" h="50"/>
+  <description>아프리카에도 펭귄이 산다! 아프리카 케이프타운</description>
+</Africa>
+
+<Rusia>
+  <main_image file="Rusia.jpg" w="150" h="50"/>
+  <description>두 시간만에 만나는 아시아의 유럽, 블라디보스톡</description>
+</Rusia>
+
+<Paris>
+  <main_image file="Paris.jpg" w="500" h="350"/>
+  <description>꽃과 낭만의 도시, 파리</description>
+</Paris>
+
+<Austrailia>
+  <main_imafe file="Austrailia.jpg" w="500" h="350"/>
+  <description>순수한 대자연, 호주</description>
+</Austrailia>
+
+<Guam>
+  <main_image file="Guam.jpg" w="500" h="350"/>
+  <description>남태평양 지상 최고의 낙원, 괌</description>
+</Guam>
+
+</review>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>
+<books xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="books.xsd">
+  <team>
+<project>XML 팀 프로젝트</project>
+<name amja=" 이세연 16112501, 김인아 17122730, 임수빈 17123881">3팀</name>
+</team>
+
+    <Book1>
+      <name language="Korean">프렌즈 스페인 포르투갈</name>
+      <write>박현숙</write>
+      <writeinfo>저 | 중앙북스 | 2018.05.15</writeinfo>
+      <main_image file="Book1.jpg" w="100" h="150"/>
+      <description>여행 가이드북의 정석, 스페인의 정치 경제 문화의 중심지 마드리드 천재 건축가 가우디의 도시이자 피카소, 미로 등 세계적 거장들이 사랑한 바르셀로나 스페인ㆍ포르투갈 핵심 도시들을 정리한 책</description>
+    </Book1>
+    <Book2>
+      <name language="Korean">오! 마이 괌</name>
+      <write>삼돌이, 양슬아</write>
+      <writeinfo>저 | 두사람 | 2018.09.30.</writeinfo>
+      <main_image file="Book2.jpg" w="100" h="150"/>
+      <description>괌의 최신 여행 정보를 담은 가이드북  '괌 자유여행 길잡이' 카페 주인장인 저자가 선정한 필수 여행지, 아름다운 비치는 물론 아이들과 함께 가기 좋은 테마파크, 매직 쇼까지 꼼꼼하게 소개하는 책</description>
+    </Book2>
+    <Book4>
+      <name language="Korean">무작정 따라하기 방콕</name>
+      <write> 이진경, 김경현</write>
+      <writeinfo>저 | 길벗 | 2018.01.05.</writeinfo>
+      <main_image file="Book4.jpg" w="100" h="150"/>
+      <description> 1권은 최신 여행 테마를 총망라하여 출국 전 여행자의 선택의 폭을 넓혔고, 2권은 출국 후 다양한 일정별·테마별·목적별 여행코스를 담아 고민할 필요 없이 그대로 따라가면 되도록 구성했다.</description>
+    </Book4>
+    <Book5>
+      <name language="Korean">클로즈업 홍콩 마카오</name>
+      <write>유재우, 손미경, 김형일</write>
+      <writeinfo>저 | 에디터 | 2018.06.13</writeinfo>
+      <main_image file="Book5.jpg" w="100" h="150"/>
+      <description>대한민국 최고의 홍콩·마카오 여행 전문가 3인방이 지난 10여 년에 걸쳐 발굴해낸 신뢰도 만점의 확실한 정보만을 엄선하여 알짜 정보가 가득한 책</description>
+    </Book5>
+  
+    <Book1-1>
+      <name language="Korean">마음이 급해졌어, 아름다운 것을 모두 보고 싶어</name>
+      <write info="작성자">조이킴</write>
+      <description>아름다운 것을 많이 봐두고 싶다. 마흔살이 됐을 때, 왠지 다급한 마음이 들었습니다.</description>
+    </Book1-1>
+
+    <Book2-2>
+      <name language="Korean">나는 호텔을 여행한다</name>
+      <description>여행지보다 더 설레는 테마별 호텔 여행 </description>
+    </Book2-2>
+
+    <Book3-3>
+      <name language="Korean">때때로 괜찮지 않았지만, 그래도 괜찮았어</name>
+      <write info="작성자">달타냥</write>
+      <description>p.71. 때론 이름도 기억나지 않는, 마치 기대하지 않은 선물과도 같던 그 장소는 대체로 그 나라에 대한 내 기억의 전부가 되곤 했다. </description>
+    </Book3-3>
+    
+  <Book5-5>
+      <name language="Korean">이탈리아 데이</name>
+      <description>2017-2018년,유럽 문명의 산실 이탈리아 37개 도시 완벽가이드,Italia day,테라's 데이 시리즈</description>
+    </Book5-5>
+    
+      <Book6>
+      <name language="Korean">앙코르 인문기행</name>
+      <description>미학자, 신들의 도시에서 아름다움과 문명을 생각하다 </description>
+    </Book6>
+
+      <Book6-6>
+      <name language="Korean">소소낭만, 일본 소도시 여행</name>
+      <description>소박한 멋과 맛 낭만이 있는 일본의 작은 여행지 45곳 </description>
+    </Book6-6>
+
+      <Book7>
+      <name language="Korean">지금, 블라디보스토크</name>
+      <description>작지만 확실한 행복을 느끼게 해주는 도시, 블라디보스토크 </description>
+    </Book7>
+
+  </books>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="information.xsl"?>
+<trip>
+  <information>
+    <Japan>
+    <name>일본</name>
+    <main_image file="Japan.jpg" w="500" h="350" />
+    <description>아시아 대륙 동쪽에 홋카이도[北海道], 혼슈[本州] , 시코쿠[四國], 규슈[九州] 4개 큰 섬을 중심으로 북동에서 남서 방향으로 이어지는 일본열도를 차지한 섬나라이다. </description>
+    <language>언어 : 일본어</language>
+    <location>위치 : 동아시아, 한반도의 동쪽 </location>
+    <airplanetime>비행 시간 : 최소 1시간 55분 소요 </airplanetime>
+    <time> 시차 : 없음</time>
+    <spot>관광 명소 : 유후인/벳푸, 교토 아라시야마, 오키나와</spot>
+    </Japan>
+  
+  
+    <Kotakinabalu>
+    <name>코타키나발루</name>
+    <main_image file="Kotakinabalu.jpg" w="500" h="350" />
+    <description> 말레이시아, 사바 주의 주도, 항만도시. 칼리만탄 섬 북부, 남중국해쪽의 소만에 면함. 부근에 키나발루 산 국립공원 · 타우조아루 해수욕장 등 관광지가 많음. </description>
+    <language>언어 : 말레이어, 영어 </language>
+    <location>위치 : 말레이시아 사바주</location>
+    <airplanetime>비행 시간 : 최소 5시간 10분 소요 </airplanetime>
+    <time> 시차 : 한시간</time>
+    <spot>관광 명소 : 키나발루 국립공원, 툰쿠 압둘 라만 국립공원</spot>
+    </Kotakinabalu>
+
+    <Vladivostok>
+    <name>블라디보스톡</name>
+    <main_image file="Vladivostok.jpg" w="500" h="350" />
+    <description> 블라디보스토크란 ‘동방을 지배하라’라는 뜻이다.<br/> 동해 연안의 최대 항구도시 겸 군항이다. 소련 극동함대의 사령부가 있는 해군기지이며, <br/>북극해와 태평양을 잇는 북빙양 항로의 종점이며, 모스크바에서 출발하는 시베리아 철도의 종점이기도 하다.</description>
+    <language>언어 : 러시아어</language>
+    <location>위치 : 러시아 연해주</location>
+    <airplanetime>비행 시간 : 최소 2시간 15분 소요 </airplanetime>
+    <time> 시차 : 한시간 </time>
+    <spot>관광 명소 : 혁명광장, 포크롭스키 대성당, 개선문, 영원의 불꽃, 독수리 전망대</spot>
+    </Vladivostok>
+
+    <Spain>
+    <name>스페인</name>
+    <main_image file="Spain.jpg" w="500" h="350" />
+    <description>스페인의 정식 국명은 스페인 왕국(Kingdom of Spain)으로 스페인어로는 에스파냐 왕국(Reino de Espana)이다.<br/> 유럽의 서쪽 이베리아 반도에 있으며, 국토 총 면적은 505,370km2로 한반도의 약 두 배이다.</description>
+    <language>언어 : 에스파냐어</language>
+    <location>위치 : 유럽 남서부, 북대서양과 지중해 연안 </location>
+    <airplanetime>비행 시간 : 최소 12시간 50분 소요 </airplanetime>
+    <time>시차 : 8시간 </time>
+    <spot>관광 명소 : 몬주익 언덕, 알함브라 궁전, 콘수에그라 </spot>
+    </Spain>
+ 
+    <Paris>
+    <name>파리</name>
+    <main_image file="Paris.jpg" w="500" h="350" />
+    <description>교외를 포함한 ‘파리 데파르트망(Department)’은 면적 2,845㎢, 인구 약 1,240만 명(2018)이다. <br/>오랫동안 센 데파르트망의 수도였으나 1964년부터 파리만으로 독립 데파르트망이 되었다.<br/> 프랑스의 정치·경제·교통·학술·문화의 중심지일 뿐만 아니라 세계의 문화 중심지로, ‘꽃의 도시’라고 불리며 프랑스 사람들은 스스로 ‘빛의 도시’라고 부른다. </description>
+    <language>언어 : 프랑스어</language>
+    <location>위치 : 프랑스 일드프랑스 레지옹 </location>
+    <airplanetime>비행 시간 : 최고 11시간 55분 소요</airplanetime>
+    <time>시차 : 8시간</time>
+    <spot>관광 명소 : 에펠탑, 베르사유궁전, 루브르박물관</spot>
+    </Paris>
+    
+    <Laos>
+    <name>라오스</name>
+    <main_image file="Laos.jpg" w="500" h="350" />
+    <description>동남아시아 인도차이나반도 내륙부에 있는 공화국. <br/>정식 명칭은 라오인민민주주의공화국(Lao People’s Democratic Republic)으로,<br/> 면적은 23만 6800㎢, 인구는 691만 1544명(2015년 현재), 수도는 비엔티엔(Vientiane)이다.</description>
+    <language>언어 : 라오스어</language>
+    <location>위치 : 인도차이나 반도의 중심</location>
+    <airplanetime>비행 시간 : 최소 5시간 15분 소요</airplanetime>
+    <time>시차 : 2시간</time>
+    <spot>관광 명소 : 국립박물관, 남푸 분수, 비엔티안</spot>
+    </Laos>
+    </information>
+    </trip>
+  
+
+  
+
+
